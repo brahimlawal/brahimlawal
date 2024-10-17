@@ -1,6 +1,6 @@
 ![Header](https://github.com/brahimlawal/brahimlawal/blob/main/github-header-image.png)
 # 👑 About Me:
-👋🏾 Hi, I am Ibrahim an Engineer (Mechatronics & Software) & Entrepreneur<br>👀 I’m interested in Web Development, Embeded systems & Cyber Security <br>👁️ I am open to collaborating on building creative real-world problem solving projects<br>📫 How to reach me - allbusinessminded22@gmail.com
+👋🏾 Hi, I am Ibrahim an Engineer (Mechatronics & Software) & Entrepreneur<br>👀 I’m interested in Web Development, Embedded systems & Cyber Security <br>👁️ I am open to collaborating on building creative real-world problem solving projects<br>💬 Ask me about HTML, C++, Javascript, CSS, MYSQL, PYTHON, Arduino, Raspberry Pi, Electronic Components<br>📫 How to reach me - allbusinessminded22@gmail.com
 
 
 ## 🌐 Socials:
