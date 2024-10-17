@@ -12,7 +12,7 @@
 ![](https://github-readme-stats.vercel.app/api?username=brahimlawal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=brahimlawal&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=brahimlawal&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-<img align="right" alt="coding" width="200" src="https://github.com/brahimlawal/brahimlawal/blob/main/hood%20coder.webp" >
+<img align="right" alt="coding" width="350" src="https://github.com/brahimlawal/brahimlawal/blob/main/github%20coder.gif" >
 
 
 ## 🏆 GitHub Trophies
